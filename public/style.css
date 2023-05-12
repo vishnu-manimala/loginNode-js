@@ -1,0 +1,11 @@
+@import url('href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" ');
+body{
+    background-image: url("/asset/login-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+    color: wheat;
+}
+.login {
+    border: none;
+}
